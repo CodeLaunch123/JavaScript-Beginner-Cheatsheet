@@ -70,7 +70,8 @@ Async functions make working with APIs easier.
 If you want a **full beginner JavaScript guide and cheat sheet**, check out:
 
 CodeLaunch JavaScript Guide  
-https://yourgumroadlink
+https://codelaunch123.gumroad.com/l/hlgcly ##JS GUIDE
+https://codelaunch123.gumroad.com/l/goegfw ##Js/HTML Cheatsheet
 
 
 ## Contributing
